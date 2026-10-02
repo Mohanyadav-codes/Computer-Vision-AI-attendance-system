@@ -4,6 +4,7 @@ an averaged 128-d embedding, and store in the database.
 """
 
 import os
+import sqlite3
 import cv2
 import numpy as np
 
